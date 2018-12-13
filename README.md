@@ -4,21 +4,21 @@ Oblique
 With Oblique explore new styles of displaying images
 
 [![Join the chat at https://gitter.im/Oblique22/Lobby](https://badges.gitter.im/Oblique22/Lobby.svg)](https://gitter.im/Oblique22/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Oblique-blue.svg?style=flat-square)](https://android-arsenal.com/details/1/5659)
-[![Release](https://jitpack.io/v/akshay2211/Oblique.svg?style=flat-square)](https://jitpack.io/#akshay2211/Oblique)
-[![API](https://img.shields.io/badge/API-9%2B-blue.svg?style=flat-square)](https://android-arsenal.com/api?level=9)
+[![](https://img.shields.io/badge/Android%20Arsenal-Oblique-green.svg?style=flat-square)](https://android-arsenal.com/details/1/5659)
+[![](https://jitpack.io/v/akshay2211/Oblique.svg?style=flat-square)](https://jitpack.io/#akshay2211/Oblique)
+[![](https://img.shields.io/badge/Medium-Oblique-black.svg?style=flat-square)](https://medium.com/@fxn769/oblique-attractive-android-ui-library-ae07a87a94)
+[![](https://img.shields.io/badge/Awesome%20Android%20Library-Oblique-yellow.svg?style=flat-square)](http://awesomeandroidlibrary.com/2018/01/31/oblique-explore-new-styles-of-displaying-images/)
+[![](https://img.shields.io/badge/API-9%2B-blue.svg?style=flat-square)](https://android-arsenal.com/api?level=9)
 
 [ ![Download](media/google-play-badge.png) ](https://play.google.com/store/apps/details?id=ak.sh.ay.app)
 
 Demo
 ----
-![](media/one.png)
-![](media/two.png)
-![](media/three.png)
-![](media/four.png)
+<img width=25% src='media/one.png'/><img width=25% src='media/two.png'/><img width=25% src='media/three.png'/><img width=25% src='media/four.png'/>
 
-![](media/media_1.gif)
-![](media/media_2.gif)
+<img width=50% src='media/media_1.gif'/><img width=50% src='media/media_2.gif'/>
+
+
 
 
 
@@ -85,7 +85,7 @@ Download
 
  [ ![Download](https://api.bintray.com/packages/fxn769/android_projects/Oblique/images/download.svg) ](https://bintray.com/fxn769/android_projects/Oblique/_latestVersion)  or grab via Gradle:
 ```groovy
-        compile 'com.fxn769:oblique:2.0'
+        implementation  'com.fxn769:oblique:2.0'
 ```
 or Maven:
 ```xml
